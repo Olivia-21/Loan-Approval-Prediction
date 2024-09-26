@@ -1,1 +1,1 @@
-# Loan-Price-Prediction
+# Loan-Approval-Prediction
